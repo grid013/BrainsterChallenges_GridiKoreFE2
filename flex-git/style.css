@@ -6,7 +6,7 @@ body{
 }
 .main {
     background-image: url(./images/9EpdkTsbaxxUFXpn90dcn8nrTVi5zGMrYVIjKHTC.jpg);
-    background :linear-gradient(to bottom 0.4 ,0.7);
+    background-image :linear-gradient(to bottom 0.4 ,0.7);
     
     
     background-size: cover;
