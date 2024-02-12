@@ -1,1 +1,1 @@
-gridi
+gridi kore
