@@ -1,0 +1,162 @@
+.image1 {
+    width: 550px;
+    height: 350px;
+}
+.text-font{
+    font-style: italic;
+}
+.p-font{
+    font-size: 8px;
+    letter-spacing: 0.1px;
+}
+.button{
+    background-color: #45496a;
+    border-radius: 20px;
+
+    color: whitesmoke;
+    padding: 10px 20px;
+    
+ 
+}
+.button1:hover{
+    background-color: blue;
+
+}
+.card {
+    text-align: center;
+    
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    margin-top: 45px;
+    border-radius: 25px;
+
+    
+    
+}
+.card-1{
+    background-color: #7d8bae
+    ;
+    padding: 20px;
+
+    
+    
+   
+  
+}
+.card-2 {
+    background-color: #f1b2b2
+    ;
+    padding: 20px;
+    
+    
+ 
+}
+.card-3 {
+    background-color: #7d8bae
+    ;
+    padding: 20px;
+    
+   
+    
+}
+.icon {
+    width: 40px;
+    height: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.card-1 h3 {
+    color: white;
+}
+.card-3 h3{
+    color: white;
+}
+.card-1 p {
+    color: white;
+}
+.card-3 p{
+    color: white;
+}
+.bg-color { 
+
+    
+    background-color: #45496a;
+    color: white;
+    height: 350px;
+    margin-top: 40px;
+    width: 100%;
+}
+.container{
+    
+    padding: 125px 90px;
+    
+    
+    
+    
+
+    
+    
+    
+}
+.border {
+    border-left: 4px solid salmon;
+    padding-left: 20px;
+    border-right: 4px dotted salmon;
+    padding-right: 20px;
+}
+
+.form {
+    
+    margin: auto;
+    border: 4px dotted #45496a;
+    width: 70%;
+    height: 250px;
+}
+.subscribe{
+    margin-top: 60px;
+}
+.text-form{
+    color: #45496a;
+    font-size: 36px;
+    font-weight: bolder;
+    
+}
+input{
+    font-style: italic;
+    width: 350px;
+    height: 35px;
+    border-radius: 25px;
+    padding-left: 25px;
+}
+.btn{
+    width: 100px;
+    height: 35px;
+    border-radius: 25px;
+    background-color: #45496a;
+    color: white;
+}
+.form-position{
+    padding:40px;
+    width:70%
+}
+.btn-1:hover{
+    background-color: bisque;
+    color: black;
+}
+footer{
+    margin-top: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+}
+.footer{
+    padding: 80px;
+}
+.media-logo{
+    width: 45px;
+    height: 45px;
+    
+}
