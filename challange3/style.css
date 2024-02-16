@@ -1,0 +1,278 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  background-color: #333;
+  width: 100%;
+  height: 60px;
+  padding: 20px 60px;
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  
+
+}
+.logo{
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.navbar a{
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.navbar a:hover{
+  color: cadetblue;
+}
+.image{
+  background: url(./img/ucL5MSVEAwanEwrQD97ftRA86kDUXGlSKrJR1ZxN.jpg) no-repeat;
+  
+  
+background-size: cover;
+background-position: top;
+  width: 100%;
+  height: 400px;
+}
+.text-img{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+
+
+}
+.text-img >h2{
+  font-size: 36px;
+  letter-spacing: 2px;
+}
+.text-img > h5 {
+  
+  font-size: 14px;
+  font-weight: 100;
+
+
+}
+.container-1 {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  flex-wrap: wrap;
+  
+  
+}
+
+.text1{
+  display: block;
+  width: 500px;
+  height: 300px;
+  margin: 50px;
+  float: left;
+  
+ 
+  
+  
+  
+  
+}
+.dance{
+  
+  width: 500px;
+  height: 500px;
+  margin: 50px 50px 50px 100px;
+  box-shadow:10px 10px lightgray;
+}
+
+.bg-color{
+  background-color: #632323;
+  width: 100%;
+  height: 600px;
+  align-items: center;
+  
+}
+.container-card {
+  padding: 100px;
+  
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+.card-1{
+  flex:1 0 300px;
+  height: 180px;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  color: #fff;
+  overflow: hidden;
+  
+}
+.card-content{
+  display: flex;
+  justify-content: space-between;
+  
+  
+  flex-direction: column;
+  padding: 20px;
+  height: 100%;
+  flex-wrap: wrap;
+}
+.card-content p {
+  font-size: 12px;
+}
+.card-content .card-btn{
+  
+  
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.bg-color >div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  color: #fff;
+
+}
+
+
+.instructors{
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  height: 600px;
+  background-color: lightgrey;
+  
+  flex-wrap: wrap;
+}
+.instructors-pic{
+  height: 400px;
+  background-color: #fff;
+  width: 350px;
+  
+}
+.img-pic{
+  width: 350px;
+  height: 250px;
+}
+
+.name{
+  margin-left: 110px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ 
+}
+.instructors-pic p{
+  margin: 20px;
+  
+}
+.price{
+  text-align: center;
+  margin-top: 40px;
+  height: 400px;
+  
+}
+.container-price{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  
+}
+.price-item{
+  display: flex;
+  flex-direction: column;
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+  border: 1px solid lightgray;
+  width: 300px;
+  height: 180px;
+  transition: 1s ease;
+
+}
+.price-item:hover{
+  transform: scale(1.1);
+}
+.price-item h2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.price-item span{
+  margin-bottom: 10px;
+  color: red;
+  font-weight: bolder;
+  
+}
+.price-item h5 {
+  border-bottom: 1px solid gray;
+  padding-top: 10px;
+
+}
+.form {
+  background-color: lightgray;
+  width: 100%;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.area{
+  width: 400px;
+  height: 200px;
+}
+.button{
+  width:400px;
+  padding: 10px;
+  background-color: green;
+  color: #fff;
+}
+.button:hover{
+  background-color: #fff;
+  color: green;
+}
+.name-1{
+  width: 400px;
+}
+.form-text{
+  text-align: center;
+  margin-top: 30px;
+}
+.footer{
+  background-color: black;
+  height: 100px;
+  
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.footer span{
+  height: 50px;
+  
+  color: #fff;
+}
