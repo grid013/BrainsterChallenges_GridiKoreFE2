@@ -8,12 +8,21 @@ To copy a GitHub repository:-
 
 ### Open new branch
 
+```sh 
+
 $ git branch -m "name"
 
+```
+
 *Create a readme file.
+
+```sh 
+
 $ git add . (to save the changes)
 $ git commit -m ""
 $ git push
+
+```
 
 *Open Github account and go to the new branch (Challenge_html_1)
 *Click add file and upload first project
@@ -21,13 +30,22 @@ $ git push
 
 ### Open new branch for second project
 
+```sh 
+
 $ git checkout "main"
 $ git branch -m "name"
 
+```
+
 *Create a readme file.
+
+```sh 
+
 $ git add . (to save the changes)
 $ git commit -m ""
 $ git push
+
+```
 
 *Open Github account and go to the new branch (Challenge_html_css_2)
 *Click add file and upload first project
@@ -36,13 +54,22 @@ $ git push
 
 ### Open new branch for third project
 
+```sh 
+
 $ git checkout "main"
 $ git branch -m "name"
 
+```
+
 *Create a readme file.
+
+```sh 
+
 $ git add . (to save the changes)
 $ git commit -m ""
 $ git push
+
+```
 
 *Open Github account and go to the new branch (Challenge_html_css_3)
 *Click add file and upload first project
@@ -50,13 +77,22 @@ $ git push
 
 ### Open new branch for the fourth project
 
+```sh 
+
 $ git checkout "main"
 $ git branch -m "name"
 
+```
+
 *Create a readme file.
+
+```sh 
+
 $ git add . (to save the changes)
 $ git commit -m ""
 $ git push
+
+```
 
 *Open Github account and go to the new branch (Challenge_scss)
 *Click add file and upload first project
@@ -64,13 +100,22 @@ $ git push
 
 ### Open new branch for fifth project
 
+```sh 
+
 $ git checkout "main"
 $ git branch -m "name"
 
+```
+
 *Create a readme file.
+
+```sh 
+
 $ git add . (to save the changes)
 $ git commit -m ""
 $ git push
+
+```
 
 *Open Github account and go to the new branch (grid013_challenge-flex-git)
 *Click add file and upload first project
