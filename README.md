@@ -1,1 +1,0 @@
-# BrainsterChallenges_GridiKoreFE2
